@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahalsm
 - 👀 I’m interested in Problem Solving and Android Development
 - 🌱 I’m currently learning Bachelor of computer application
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 muhammedsahalsm155@gmail.com
 
 <!---
